@@ -96,13 +96,13 @@ python send.py --n-pkt 200 --n-drops 10 --fail-hops 2
 <p align="center">
 <img src="images/h1_loss_2.png" title="h1 loss messages"/>
 <br>
-<em>Fig. 2: h2 loss messages</em>
+<em>Fig. 4: h2 loss messages</em>
 <p/>
 
 <p align="center">
 <img src="images/controller_loss_2.png" title="controller loss messages"/>
 <br>
-<em>Fig. 3: controller print loss messages</em>
+<em>Fig. 5: controller print loss messages</em>
 <p/>
 
 
